@@ -1,0 +1,301 @@
+{
+  "definitions": {
+    "Product": {
+      "kind": "entity",
+      "@ObjectModel.supportedCapabilities": [
+        {
+          "#": "ANALYTICAL_DIMENSION"
+        }
+      ],
+      "elements": {
+        "Product_ID": {
+          "@EndUserText.label": "Product ID",
+          "type": "cds.String",
+          "length": 4,
+          "key": true,
+          "notNull": true,
+          "@ObjectModel.text.element": [
+            {
+              "=": "Product_Name"
+            }
+          ]
+        },
+        "Product_Name": {
+          "@EndUserText.label": "Product Name",
+          "type": "cds.String",
+          "length": 30,
+          "@Semantics.text": true
+        },
+        "Product_Category_ID": {
+          "@EndUserText.label": "Product Category ID",
+          "type": "cds.String",
+          "length": 4,
+          "@ObjectModel.text.element": [
+            {
+              "=": "Product_Category_Name"
+            }
+          ]
+        },
+        "Product_Category_Name": {
+          "@EndUserText.label": "Product Category Name",
+          "type": "cds.String",
+          "length": 30,
+          "@Semantics.text": true
+        }
+      },
+      "@EndUserText.label": "Product",
+      "@ObjectModel.modelingPattern": {
+        "#": "ANALYTICAL_DIMENSION"
+      }
+    },
+    "Sales_Manager": {
+      "kind": "entity",
+      "@ObjectModel.supportedCapabilities": [
+        {
+          "#": "ANALYTICAL_DIMENSION"
+        }
+      ],
+      "elements": {
+        "Sales_Manager_ID": {
+          "@EndUserText.label": "Sales Manager ID",
+          "type": "cds.String",
+          "length": 4,
+          "key": true,
+          "notNull": true,
+          "@ObjectModel.text.element": [
+            {
+              "=": "Sales_Manager_Name"
+            }
+          ]
+        },
+        "Sales_Manager_Name": {
+          "@EndUserText.label": "Sales Manager Name",
+          "type": "cds.String",
+          "length": 30,
+          "@Semantics.text": true
+        }
+      },
+      "@EndUserText.label": "Sales Manager",
+      "@ObjectModel.modelingPattern": {
+        "#": "ANALYTICAL_DIMENSION"
+      }
+    },
+    "Sales_Transactions": {
+      "kind": "entity",
+      "@ObjectModel.supportedCapabilities": [
+        {
+          "#": "DATA_STRUCTURE"
+        }
+      ],
+      "elements": {
+        "Transaction_ID": {
+          "@EndUserText.label": "Transaction ID",
+          "type": "cds.Integer64",
+          "key": true,
+          "notNull": true
+        },
+        "Transaction_Date": {
+          "@EndUserText.label": "Transaction Date",
+          "type": "cds.Date"
+        },
+        "Store_ID": {
+          "@EndUserText.label": "Store ID",
+          "type": "cds.String",
+          "length": 6,
+          "@ObjectModel.foreignKey.association": {
+            "=": "_Store"
+          }
+        },
+        "Product_ID": {
+          "@EndUserText.label": "Product ID",
+          "type": "cds.String",
+          "length": 4,
+          "@ObjectModel.foreignKey.association": {
+            "=": "_Product"
+          }
+        },
+        "Sales_Manager_ID": {
+          "@EndUserText.label": "Sales Manager ID",
+          "type": "cds.String",
+          "length": 4,
+          "@ObjectModel.foreignKey.association": {
+            "=": "_Sales_Man"
+          }
+        },
+        "Profit": {
+          "@EndUserText.label": "Profit",
+          "precision": 15,
+          "scale": 2,
+          "type": "cds.Decimal"
+        },
+        "Discount": {
+          "@EndUserText.label": "Discount",
+          "precision": 15,
+          "scale": 2,
+          "type": "cds.Decimal"
+        },
+        "Revenue": {
+          "@EndUserText.label": "Revenue",
+          "precision": 15,
+          "scale": 2,
+          "type": "cds.Decimal"
+        },
+        "Cost": {
+          "@EndUserText.label": "Cost",
+          "precision": 15,
+          "scale": 2,
+          "type": "cds.Decimal"
+        },
+        "_Store": {
+          "type": "cds.Association",
+          "on": [
+            {
+              "ref": [
+                "Store_ID"
+              ]
+            },
+            "=",
+            {
+              "ref": [
+                "_Store",
+                "Store_ID"
+              ]
+            }
+          ],
+          "target": "Store",
+          "@EndUserText.label": "Sales Transactions to Store"
+        },
+        "_Product": {
+          "type": "cds.Association",
+          "on": [
+            {
+              "ref": [
+                "Product_ID"
+              ]
+            },
+            "=",
+            {
+              "ref": [
+                "_Product",
+                "Product_ID"
+              ]
+            }
+          ],
+          "target": "Product",
+          "@EndUserText.label": "Sales Transactions to Product"
+        },
+        "_Sales_Man": {
+          "type": "cds.Association",
+          "on": [
+            {
+              "ref": [
+                "Sales_Manager_ID"
+              ]
+            },
+            "=",
+            {
+              "ref": [
+                "_Sales_Man",
+                "Sales_Manager_ID"
+              ]
+            }
+          ],
+          "target": "Sales_Manager",
+          "@EndUserText.label": "Sales Transactions to Sales Manager"
+        }
+      },
+      "@EndUserText.label": "Sales Transactions",
+      "@DataWarehouse.businessDefinition.description": "This is the table for the Sales Transactions",
+      "@DataWarehouse.businessDefinition.tags": [
+        {
+          "key": "sales transactions",
+          "text": "sales transactions"
+        },
+        {
+          "key": "revenue",
+          "text": "revenue"
+        },
+        {
+          "key": "transactions",
+          "text": "transactions"
+        }
+      ],
+      "@ObjectModel.modelingPattern": {
+        "#": "DATA_STRUCTURE"
+      }
+    },
+    "Store": {
+      "kind": "entity",
+      "@ObjectModel.supportedCapabilities": [
+        {
+          "#": "ANALYTICAL_DIMENSION"
+        }
+      ],
+      "elements": {
+        "Store_ID": {
+          "@EndUserText.label": "Store ID",
+          "type": "cds.String",
+          "length": 6,
+          "key": true,
+          "notNull": true,
+          "@ObjectModel.text.element": [
+            {
+              "=": "Store_Name"
+            }
+          ]
+        },
+        "Store_Name": {
+          "@EndUserText.label": "Store Name",
+          "type": "cds.String",
+          "length": 30,
+          "@Semantics.text": true
+        },
+        "Store_City": {
+          "@EndUserText.label": "Store City",
+          "type": "cds.String",
+          "length": 20
+        },
+        "State_ID": {
+          "@EndUserText.label": "State ID",
+          "type": "cds.String",
+          "length": 2
+        },
+        "State_Name": {
+          "@EndUserText.label": "State Name",
+          "type": "cds.String",
+          "length": 30
+        },
+        "Country": {
+          "@EndUserText.label": "Country",
+          "type": "cds.String",
+          "length": 30
+        },
+        "Latitude": {
+          "@EndUserText.label": "Latitude",
+          "precision": 15,
+          "scale": 8,
+          "type": "cds.Decimal"
+        },
+        "Longitude": {
+          "@EndUserText.label": "Longitude",
+          "precision": 15,
+          "scale": 8,
+          "type": "cds.Decimal"
+        }
+      },
+      "@EndUserText.label": "Store",
+      "@ObjectModel.modelingPattern": {
+        "#": "ANALYTICAL_DIMENSION"
+      }
+    }
+  },
+  "version": {
+    "csn": "1.0"
+  },
+  "meta": {
+    "creator": "ER Modeler",
+    "kind": "sap.dwc.ermodel",
+    "label": "Sales ER Model"
+  },
+  "$version": "1.0"
+}

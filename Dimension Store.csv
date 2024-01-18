@@ -1,0 +1,221 @@
+﻿Store_ID,Store_Name,Store_City,State_ID,State_Name,Country,Latitude,Longitude
+ST1,Second Hand,New York,NY,New York,United States,40.6943,-73.9249
+ST10,Ozzy,Los Angeles,CA,California,United States,34.1139,-118.4068
+ST100,Park Market,Chicago,IL,Illinois,United States,41.8373,-87.6862
+ST101,Budget Mart,Miami,FL,Florida,United States,25.7839,-80.2102
+ST102,Dora Tolleson,Dallas,TX,Texas,United States,32.7936,-96.7662
+ST103,County Fair Foods,Philadelphia,PA,Pennsylvania,United States,40.0077,-75.1339
+ST104,Bayview Thriftway,Houston,TX,Texas,United States,29.7863,-95.3889
+ST105,W & W Grocery,Atlanta,GA,Georgia,United States,33.7627,-84.4224
+ST106,Nutra Vera Naturals,Washington,DC,District of Columbia,United States,38.9047,-77.0163
+ST107,Spire Market,Boston,MA,Massachusetts,United States,42.3188,-71.0846
+ST108,Aegis Market,Phoenix,AZ,Arizona,United States,33.5722,-112.0891
+ST109,Hayway Market Place,Seattle,WA,Washington,United States,47.6211,-122.3244
+ST11,Vista Foods,San Francisco,CA,California,United States,37.7562,-122.443
+ST110,Laymens,Detroit,MI,Michigan,United States,42.3834,-83.1024
+ST111,Crown Groceries,San Diego,CA,California,United States,32.8312,-117.1225
+ST112,B & D Store,Minneapolis,MN,Minnesota,United States,44.9635,-93.2678
+ST113,Rickys Thrifts,Tampa,FL,Florida,United States,27.9942,-82.4451
+ST114,Renfrew Corner Store,Denver,CO,Colorado,United States,39.7621,-104.8759
+ST115,Night Stop ,Brooklyn,NY,New York,United States,40.6501,-73.9496
+ST116,Melanies Corner Store,Queens,NY,New York,United States,40.7498,-73.7976
+ST117,Bellview Market place,Riverside,CA,California,United States,33.9381,-117.3948
+ST118,Valleyvista Depot,Baltimore,MD,Maryland,United States,39.3051,-76.6144
+ST119,Pay N Go,Las Vegas,NV,Nevada,United States,36.2333,-115.2654
+ST12,All-you-need Store,Portland,OR,Oregon,United States,45.5372,-122.65
+ST120,Frills,San Antonio,TX,Texas,United States,29.4658,-98.5253
+ST121,Thrifties,St. Louis,MO,Missouri,United States,38.6358,-90.2451
+ST122,Cassey Costs,Sacramento,CA,California,United States,38.5667,-121.4683
+ST123,Shoppers,Orlando,FL,Florida,United States,28.4772,-81.3369
+ST124,Barnet Depot,San Jose,CA,California,United States,37.3019,-121.8486
+ST125,Commercial Corner Store,Cleveland,OH,Ohio,United States,41.4767,-81.6804
+ST126,Rosa Foods,Pittsburgh,PA,Pennsylvania,United States,40.4396,-79.9762
+ST127,Henderson Mart,Austin,TX,Texas,United States,30.3004,-97.7522
+ST128,Hudsons,Cincinnati,OH,Ohio,United States,39.1413,-84.5061
+ST129,PGA,Kansas City,MO,Missouri,United States,39.1239,-94.5541
+ST13,Fairchild,Manhattan,NY,New York,United States,40.7834,-73.9662
+ST130,Inter Mart,Indianapolis,IN,Indiana,United States,39.7771,-86.1458
+ST131,Stove Market,Columbus,OH,Ohio,United States,39.9862,-82.985
+ST132,Crossroads,Charlotte,NC,North Carolina,United States,35.208,-80.8304
+ST133,Rupert Corner Store,Virginia Beach,VA,Virginia,United States,36.7335,-76.0435
+ST134,Pinetree Corner,Bronx,NY,New York,United States,40.8501,-73.8662
+ST135,Binns Store,Milwaukee,WI,Wisconsin,United States,43.0642,-87.9673
+ST136,Second Thrifts,Providence,RI,Rhode Island,United States,41.823,-71.4187
+ST137,Sapperton Depot,Jacksonville,FL,Florida,United States,30.3322,-81.6749
+ST138,PoCo Shoppers,Salt Lake City,UT,Utah,United States,40.7777,-111.9306
+ST139,Farlos,Nashville,TN,Tennessee,United States,36.1715,-86.7843
+ST14,Anna Foods,Richmond,VA,Virginia,United States,37.5295,-77.4756
+ST140,Convenience Plus,Memphis,TN,Tennessee,United States,35.1046,-89.9773
+ST141,Montford Convenience,Raleigh,NC,North Carolina,United States,35.8325,-78.6435
+ST142,K & K Food Market,New Orleans,LA,Louisiana,United States,30.0687,-89.9288
+ST143,Handi Mart Food,Louisville,KY,Kentucky,United States,38.1663,-85.6485
+ST144,Horizon Foods,Oklahoma City,OK,Oklahoma,United States,35.4676,-97.5136
+ST145,Andys of Simbury,Bridgeport,CT,Connecticut,United States,41.1918,-73.1953
+ST146,Macks Market,Buffalo,NY,New York,United States,42.9016,-78.8487
+ST147,Kings Super Mart,Fort Worth,TX,Texas,United States,32.7811,-97.3473
+ST148,James & Sons,Hartford,CT,Connecticut,United States,41.7661,-72.6834
+ST149,Peach Lake Market,Tucson,AZ,Arizona,United States,32.1545,-110.8782
+ST15,Steves,Omaha,NE,Nebraska,United States,41.2627,-96.0522
+ST150,Southport General Store,El Paso,TX,Texas,United States,31.8479,-106.4309
+ST151,Magruders Grocery,Honolulu,HI,Hawaii,United States,21.3294,-157.846
+ST152,Deckers Food Center,McAllen,TX,Texas,United States,26.2273,-98.2471
+ST153,Box & Save,Albuquerque,NM,New Mexico,United States,35.1053,-106.6464
+ST154,Wallys Supermarket,Birmingham,AL,Alabama,United States,33.5277,-86.7987
+ST155,Traders Joe,Sarasota,FL,Florida,United States,27.3386,-82.5431
+ST156,BCS Thrift,Dayton,OH,Ohio,United States,39.7797,-84.1998
+ST157,Roys Inc,Rochester,NY,New York,United States,43.168,-77.6162
+ST158,K C Foods,Fresno,CA,California,United States,36.7831,-119.7941
+ST159,United Supermarket,Allentown,PA,Pennsylvania,United States,40.5961,-75.4756
+ST16,Kays Mini-Mart,Tulsa,OK,Oklahoma,United States,36.1284,-95.9042
+ST160,Fairplay Foods,Cape Coral,FL,Florida,United States,26.6446,-81.9956
+ST161,Concord Corner Mart,Concord,CA,California,United States,37.9722,-122.0016
+ST162,Food Emporium,Colorado Springs,CO,Colorado,United States,38.8674,-104.7606
+ST163,Dahls Food Mart,Charleston,SC,South Carolina,United States,32.8153,-79.9628
+ST164,Hanson Foods,Springfield,MA,Massachusetts,United States,42.1155,-72.5395
+ST165,Albertsons,Grand Rapids,MI,Michigan,United States,42.962,-85.6562
+ST166,Rosauers Food & Drug Center,Mission Viejo,CA,California,United States,33.6095,-117.655
+ST167,Gordon Foods,Albany,NY,New York,United States,42.6664,-73.7987
+ST168,Super Saver,Knoxville,TN,Tennessee,United States,35.9692,-83.9496
+ST169,City Market,Bakersfield,CA,California,United States,35.3529,-119.0359
+ST17,M Market,Ogden,UT,Utah,United States,41.2278,-111.9682
+ST170,Old Riverton Corner Store,Baton Rouge,LA,Louisiana,United States,30.4418,-91.131
+ST171,Gaston Mart,Akron,OH,Ohio,United States,41.0798,-81.5219
+ST172,Kraus Foods,New Haven,CT,Connecticut,United States,41.3112,-72.9246
+ST173,Baileys & Burke,Columbia,SC,South Carolina,United States,34.0376,-80.9037
+ST174,Norrenberns Depot,Mesa,AZ,Arizona,United States,33.4017,-111.718
+ST175,Jumbo Foods,Palm Bay,FL,Florida,United States,27.955,-80.6627
+ST176,Tony Finer Mart,Provo,UT,Utah,United States,40.2457,-111.6457
+ST177,Kuane Food Town,Worcester,MA,Massachusetts,United States,42.2705,-71.8079
+ST178,Rays Super Foods,Murrieta,CA,California,United States,33.572,-117.1909
+ST179,Daddy Rays,Greenville,SC,South Carolina,United States,34.8353,-82.3647
+ST18,Skyway Mart,Wichita,KS,Kansas,United States,37.6896,-97.3442
+ST180,Harps Supermart,Toledo,OH,Ohio,United States,41.6639,-83.5822
+ST181,lake Anna Market,Staten Island,NY,New York,United States,40.5834,-74.1496
+ST182,IDA,Des Moines,IA,Iowa,United States,41.5725,-93.6105
+ST183,Mary Lee Gilster Inc,Long Beach,CA,California,United States,33.7981,-118.1675
+ST184,Supermart Operations,Port St. Lucie,FL,Florida,United States,27.2796,-80.3883
+ST185,Duhlers Plaza,Denton,TX,Texas,United States,33.2176,-97.1419
+ST186,Nice N Easy Grocery Shop,Madison,WI,Wisconsin,United States,43.0826,-89.3931
+ST187,Lowes Pay N Save,Reno,NV,Nevada,United States,39.5497,-119.8483
+ST188,Arrowhead Corner Store,Harrisburg,PA,Pennsylvania,United States,40.2752,-76.8843
+ST189,More For Less,Little Rock,AR,Arkansas,United States,34.7256,-92.3576
+ST19,Bocage Market,Oakland,CA,California,United States,37.7903,-122.2165
+ST190,Cumberland Supermart,Durham,NC,North Carolina,United States,35.9794,-78.9031
+ST191,John Brooks Foods,Winston-Salem,NC,North Carolina,United States,36.1029,-80.2611
+ST192,Super Foods,Bonita Springs,FL,Florida,United States,26.3559,-81.7861
+ST193,Bloomingfoods Market,Indio,CA,California,United States,33.7346,-116.2346
+ST194,Gorettis,Palm Coast,FL,Florida,United States,29.5392,-81.246
+ST195,Rogers Foodland,Chattanooga,TN,Tennessee,United States,35.0657,-85.2488
+ST196,Haverhill Market,Spokane,WA,Washington,United States,47.6671,-117.433
+ST197,Richmond Night Market,Syracuse,NY,New York,United States,43.0409,-76.1438
+ST198,Kullens,Lancaster,PA,Pennsylvania,United States,40.0421,-76.3012
+ST199,C & R Supermarket,Arlington,TX,Texas,United States,32.6998,-97.125
+ST2,Meadow Depot,Stockton,CA,California,United States,37.9765,-121.3109
+ST20,A&A,Poughkeepsie,NY,New York,United States,41.6949,-73.921
+ST200,Crisp Groceries,Augusta,GA,Georgia,United States,33.3645,-82.0708
+ST201,Wild by Nature,Boise,ID,Idaho,United States,43.6007,-116.2312
+ST202,Rilwala Foods Inc,Oxnard,CA,California,United States,34.1963,-119.1815
+ST203,Swensens Market,Scranton,PA,Pennsylvania,United States,41.4044,-75.6649
+ST204,Shoreline Corner Mart,Modesto,CA,California,United States,37.6374,-121.0028
+ST205,Premium Foods,Kissimmee,FL,Florida,United States,28.3042,-81.4164
+ST206,Johns Corner Store,Aurora,CO,Colorado,United States,39.7087,-104.7273
+ST207,Family Foods Mart,Youngstown,OH,Ohio,United States,41.0993,-80.6463
+ST208,Carlton General Store,Fayetteville,AR,Arkansas,United States,36.0713,-94.166
+ST209,Stripes,Anaheim,CA,California,United States,33.839,-117.8572
+ST21,Euro Mart,Pensacola,FL,Florida,United States,30.4427,-87.1886
+ST210,Island Mini-Mart,Victorville,CA,California,United States,34.5277,-117.3536
+ST211,Lakeview One Stop,Lancaster,CA,California,United States,34.6935,-118.1753
+ST212,Lotte Mart,Greensboro,NC,North Carolina,United States,36.0956,-79.8269
+ST213,Clydes Market,Corpus Christi,TX,Texas,United States,27.726,-97.3755
+ST214,Hillcrest,Fort Wayne,IN,Indiana,United States,41.0886,-85.1437
+ST215,Five Star Mart,Santa Ana,CA,California,United States,33.7366,-117.8819
+ST216,Flash Foods,Flint,MI,Michigan,United States,43.0235,-83.6922
+ST217,Marco Express,Fayetteville,NC,North Carolina,United States,35.0846,-78.9776
+ST218,Piquette Mini-Mart,Jackson,MS,Mississippi,United States,32.3163,-90.2124
+ST219,Mesa Mart,Santa Rosa,CA,California,United States,38.4458,-122.7067
+ST22,PriceLow Clothing,Lansing,MI,Michigan,United States,42.7142,-84.5601
+ST220,Harvestime Foods,San Juan,PR,Puerto Rico,United States,18.4037,-66.0636
+ST23,L Mart,Lexington,KY,Kentucky,United States,38.0423,-84.4587
+ST24,Looking Good,Ann Arbor,MI,Michigan,United States,42.2755,-83.7312
+ST25,Mussers Market,Henderson,NV,Nevada,United States,36.0133,-115.038
+ST26,Browns Superstore,Huntsville,AL,Alabama,United States,34.6988,-86.6412
+ST27,Your Store,Mobile,AL,Alabama,United States,30.6783,-88.1162
+ST28,Bales Thriftway,Fort Collins,CO,Colorado,United States,40.5478,-105.0656
+ST29,24-Seven,Asheville,NC,North Carolina,United States,35.5704,-82.5536
+ST3,Value Clothing,Santa Clarita,CA,California,United States,34.4175,-118.4964
+ST30,Oak Park Market,St. Paul,MN,Minnesota,United States,44.9477,-93.104
+ST31,Covington Foods,Antioch,CA,California,United States,37.9789,-121.7958
+ST32,Yakima Market,Lakeland,FL,Florida,United States,28.0556,-81.9545
+ST33,Asafo Foods,Trenton,NJ,New Jersey,United States,40.2236,-74.7641
+ST34,Joeys Wholesale Foods,Lincoln,NE,Nebraska,United States,40.809,-96.6788
+ST35,Quality Shopping,Springfield,MO,Missouri,United States,37.1943,-93.2916
+ST36,PriceLow Arena,Anchorage,AK,Alaska,United States,61.1508,-149.1091
+ST37,Super Mart,Plano,TX,Texas,United States,33.0502,-96.7487
+ST38,Henrys Corner Store,Irvine,CA,California,United States,33.6772,-117.7738
+ST39,WholeSale,Davenport,IA,Iowa,United States,41.5563,-90.6052
+ST4,Gstore,Rockford,IL,Illinois,United States,42.2597,-89.0641
+ST40,Only Fabric,Newark,NJ,New Jersey,United States,40.7245,-74.1725
+ST41,White Club,South Bend,IN,Indiana,United States,41.6767,-86.2696
+ST42,W-Mart,Shreveport,LA,Louisiana,United States,32.4656,-93.7956
+ST43,franchescini Hand,Round Lake Beach,IL,Illinois,United States,42.379,-88.0811
+ST44,Third Hand,Savannah,GA,Georgia,United States,32.0281,-81.1784
+ST45,Mstore,Myrtle Beach,SC,South Carolina,United States,33.7096,-78.8843
+ST46,Pavar,Chula Vista,CA,California,United States,32.6281,-117.0145
+ST47,Steve Adda,Eugene,OR,Oregon,United States,44.0563,-123.1173
+ST48,Duchies ,Canton,OH,Ohio,United States,40.8075,-81.3677
+ST49,English Bay depot,Lubbock,TX,Texas,United States,33.5659,-101.8878
+ST5,W-Mart S,Reading,PA,Pennsylvania,United States,40.34,-75.9267
+ST50,Everything Store,Winter Haven,FL,Florida,United States,28.0118,-81.7017
+ST51,Damnit Mart,Salem,OR,Oregon,United States,44.9231,-123.0246
+ST52,Sennate,St. Petersburg,FL,Florida,United States,27.7931,-82.6652
+ST53,Remotes,Lafayette,LA,Louisiana,United States,30.2084,-92.0323
+ST54,American Store,Laredo,TX,Texas,United States,27.5629,-99.4875
+ST55,Ruffs Corner Store,Jersey City,NJ,New Jersey,United States,40.7161,-74.0682
+ST56,Renfrew,Concord,NC,North Carolina,United States,35.3933,-80.6366
+ST57,Michaels,Columbus,GA,Georgia,United States,32.51,-84.8771
+ST58,Williams Mart,Chandler,AZ,Arizona,United States,33.2826,-111.8516
+ST59,Seigal,McKinney,TX,Texas,United States,33.2015,-96.6669
+ST6,Heinens Village Market,Scottsdale,AZ,Arizona,United States,33.6872,-111.8651
+ST60,Hooli,Killeen,TX,Texas,United States,31.0754,-97.7296
+ST61,Optoma,Tallahassee,FL,Florida,United States,30.4551,-84.2526
+ST62,Fasco ,Peoria,IL,Illinois,United States,40.752,-89.6153
+ST63,Wholeway Store,Wilmington,NC,North Carolina,United States,34.21,-77.8866
+ST64,Tiny Ten Store,Montgomery,AL,Alabama,United States,32.3473,-86.2666
+ST65,Wrapup,Gilbert,AZ,Arizona,United States,33.3101,-111.7463
+ST66,Max,Glendale,AZ,Arizona,United States,33.5791,-112.2311
+ST67,Uptown Way,North Las Vegas,NV,Nevada,United States,36.288,-115.0901
+ST68,Selica ,Chesapeake,VA,Virginia,United States,36.6778,-76.3024
+ST69,Mainland Market,Barnstable,MA,Massachusetts,United States,41.6722,-70.3599
+ST7,Main Street Co,Norfolk,VA,Virginia,United States,36.8945,-76.259
+ST70,C-Mart,Fremont,CA,California,United States,37.5265,-121.9852
+ST71,Como Lake Department Store,Kennewick,WA,Washington,United States,46.1978,-119.1732
+ST72,Boundry Mart,Garland,TX,Texas,United States,32.91,-96.6305
+ST73,Johnson Store,Irving,TX,Texas,United States,32.8584,-96.9702
+ST74,Meadow Mart,Visalia,CA,California,United States,36.3276,-119.3269
+ST75,Crossy,Atlantic City,NJ,New Jersey,United States,39.3797,-74.4527
+ST76,Marine Market,Paradise,NV,Nevada,United States,36.0807,-115.1369
+ST77,McKenzies,Nashua,NH,New Hampshire,United States,42.7491,-71.491
+ST78,McLeods,Arlington,VA,Virginia,United States,38.8786,-77.1011
+ST79,Gords,Hialeah,FL,Florida,United States,25.8696,-80.3046
+ST8,Sams Club,York,PA,Pennsylvania,United States,39.9651,-76.7315
+ST80,Lornes,Evansville,IN,Indiana,United States,37.9881,-87.5341
+ST81,McGorbers,Avondale,AZ,Arizona,United States,33.3858,-112.3236
+ST82,FDL Store,Brownsville,TX,Texas,United States,25.998,-97.4565
+ST83,Food N Stuff,Gulfport,MS,Mississippi,United States,30.4271,-89.0703
+ST84,Chuckles,Appleton,WI,Wisconsin,United States,44.2779,-88.3891
+ST85,Grow Grocery,Bremerton,WA,Washington,United States,47.5436,-122.7122
+ST86,Joes Market,Hickory,NC,North Carolina,United States,35.7425,-81.323
+ST87,Hermans Department Store,Tacoma,WA,Washington,United States,47.2431,-122.4531
+ST88,D & K Surplus Grocery,San Bernardino,CA,California,United States,34.1417,-117.2946
+ST89,Brookhaven Market,College Station,TX,Texas,United States,30.5852,-96.296
+ST9,Corner Stop Conviences ,Kalamazoo,MI,Michigan,United States,42.2749,-85.5882
+ST90,TDI Store,Thousand Oaks,CA,California,United States,34.1914,-118.8755
+ST91,Metro Market,Roanoke,VA,Virginia,United States,37.2785,-79.958
+ST92,Jensens A G Market,Fontana,CA,California,United States,34.0968,-117.4599
+ST93,Kirby Foods,Moreno Valley,CA,California,United States,33.9244,-117.2045
+ST94,Lesmens,North Port,FL,Florida,United States,27.0577,-82.1975
+ST95,Winstons Market,Fargo,ND,North Dakota,United States,46.8652,-96.8292
+ST96,McMaller,Green Bay,WI,Wisconsin,United States,44.515,-87.9896
+ST97,Conoco Food Stop,Spring Valley,NV,Nevada,United States,36.0987,-115.2619
+ST98,Walter Store Inc,Amarillo,TX,Texas,United States,35.1988,-101.8311
+ST99,Holdem Supermarket,Portland,ME,Maine,United States,43.6773,-70.2715
